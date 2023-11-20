@@ -1,0 +1,16 @@
+#+title: Physique Projets
+#+startup: latexpreview
+
+* Snellius
+** Mode opératoire
+*** Susprendre laser
+*** Scotch ou élastique à cheveux pour maintenir laser allumé
+*** Caler miroir avec masse, et de l'autre côté avec le récipient
+*** Mesure de $\gamma$
+- Utiliser un masque (feuille de papier) pour déterminer où passe le faiseau
+- Mesurer $x$ avec ça et ensuite, reporter sur le mur et mesure $y$.
+*** Le miroir doit être parallèle au mur sinon la latte doit aussi être inclinée
+- Genre prendre une planche, la caler contre le mur, caler le récipient contre la planche
+** À faire avant
+*** TODO [#A] Racheter trois petites piles pour le laser
+LR41 AAA Button cell
